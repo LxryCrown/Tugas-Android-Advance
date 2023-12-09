@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NavigationDrawer" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/cyan</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/blue</item>
+        <item name="colorSecondaryVariant">@color/cyan</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:statusBarColor">@color/blue</item>
+    </style>
+
+    <style name="Theme.MainActivity" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+    <item name="colorPrimary">@color/blue</item>
+    <item name="colorPrimaryVariant">@color/cyan</item>
+    <item name="colorOnPrimary">@color/white</item>
+
+    <item name="colorSecondary">@color/blue</item>
+    <item name="colorSecondaryVariant">@color/cyan</item>
+    <item name="colorOnSecondary">@color/white</item>
+
+    <item name="android:statusBarColor">@color/blue</item>
+    </style>
+
+
+
+</resources>
